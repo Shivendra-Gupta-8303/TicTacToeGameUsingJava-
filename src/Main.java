@@ -98,7 +98,7 @@ public class Main {
     public static void main(String[] args) {
         tictactoe t =new tictactoe();
 
-        Humanplayer p1 = new Humanplayer("ROHAN",'x');
+        Humanplayer p1 = new Humanplayer("Diwakar",'x');
         Humanplayer p2 = new Humanplayer("Shivendra",'o');
 
         Humanplayer cp ;
